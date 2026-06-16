@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "defimorgana.aternos.me,
+    "ip": "defimorgana.aternos.me",
     "port": 24461,
     "version": "1.20.1",
     "try-creative": false
